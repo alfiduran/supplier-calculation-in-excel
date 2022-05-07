@@ -1,3 +1,5 @@
+Don't forget to pip install openpyxl in order to import the modules. try pip3 install if you have some problems calling the module. It worked for me :)
+
 # supplier-calculation-in-excel
 Count the number of Supplier and number or products it offers into a list.
 
